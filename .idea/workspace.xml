@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c84f92e-4af6-44b3-9e40-208ee1064e30" name="Default" comment="MAJ - CréerArbreSituation">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/application/AppliYote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/application/DessinPion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gui/ChoixCouleursControleur.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gui/ChoixCouleursGui.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/modele/GestionJeuYote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/modele/Situation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/modele/SituationsSpeciales.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/modele/TypeJoueur.java" afterPath="" />
+    <list default="true" id="1c84f92e-4af6-44b3-9e40-208ee1064e30" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TpYote.iws" />
@@ -484,6 +476,14 @@
       <option name="presentableId" value="Default" />
       <updated>1462265281573</updated>
     </task>
+    <task id="LOCAL-00001" summary="MAJ - CréerArbreSituation">
+      <created>1462636838822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462636838822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
